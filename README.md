@@ -1,0 +1,1 @@
+# bar-sumi-rules
