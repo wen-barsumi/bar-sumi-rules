@@ -1,1 +1,1 @@
-# bar-sumi-rules
+# BarSumi-BarRules
